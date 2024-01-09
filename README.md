@@ -8,6 +8,7 @@
 
 ### 2024
 
+* 1/9 - [我在创业中的抉择与思考（中）](https://mp.weixin.qq.com/s/v6VR799wMCtSlgi4tmtSCg)
 * 1/8 - [换个不同视角来看价值投资](https://mp.weixin.qq.com/s/1La7uBCfeKiO7_YtyY3SRg)
 * 1/7 - [从flat_set管窥C++的价值权衡](https://mp.weixin.qq.com/s/_twaQTKqC6p2Pc8c8qrLKA)
 * 1/6 - [Promise: 异步编程的强大工具](https://mp.weixin.qq.com/s/atFlcMdulXcaC1dZidOW0Q)
