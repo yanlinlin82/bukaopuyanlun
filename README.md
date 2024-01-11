@@ -8,6 +8,7 @@
 
 ### 2024
 
+* 1/11 - [密码子的探索发现过程](https://mp.weixin.qq.com/s/Q_RxDXtaDne8KKLBwRlHCA)
 * 1/10 - [AI加速时代：科技发展与隐私保护之间的博弈](https://mp.weixin.qq.com/s/FNu2EtRGtXyhORAuT8a8jA)
 * 1/9 - [我在创业中的抉择与思考（中）](https://mp.weixin.qq.com/s/v6VR799wMCtSlgi4tmtSCg)
 * 1/8 - [换个不同视角来看价值投资](https://mp.weixin.qq.com/s/1La7uBCfeKiO7_YtyY3SRg)
