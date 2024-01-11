@@ -8,6 +8,7 @@
 
 ### 2024
 
+* 1/12 - [作为家长的我眼中的素质教育改革：《跨学科的项目化学习》书评](https://mp.weixin.qq.com/s/b7lTQxTAHr-wfba0rr3ZUA)
 * 1/11 - [密码子的探索发现过程](https://mp.weixin.qq.com/s/Q_RxDXtaDne8KKLBwRlHCA)
 * 1/10 - [AI加速时代：科技发展与隐私保护之间的博弈](https://mp.weixin.qq.com/s/FNu2EtRGtXyhORAuT8a8jA)
 * 1/9 - [我在创业中的抉择与思考（中）](https://mp.weixin.qq.com/s/v6VR799wMCtSlgi4tmtSCg)
