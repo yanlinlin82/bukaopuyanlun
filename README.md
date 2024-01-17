@@ -8,6 +8,7 @@
 
 ### 2024
 
+* 1/17 - [生物学是文科吗？](https://mp.weixin.qq.com/s/kVG6tGEuTMo9yJ-GhNbm5w)
 * 1/16 - [现代科技，是先进还是蛮荒？](https://mp.weixin.qq.com/s/SKFjyR8MAw8qCyAZB-Ngzg)
 * 1/15 - [flat_set的性能测试及其实现](https://mp.weixin.qq.com/s/wJLsQVTZnqB2gWGYsZaMPg)
 * 1/14 - [为什么我们总在A股亏钱？](https://mp.weixin.qq.com/s/5uBeE3nC51abBO7hBjdbHw)

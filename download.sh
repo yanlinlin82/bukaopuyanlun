@@ -14,6 +14,7 @@ cat README.md \
 				printf "%04d-%02d-%02d\t%s\t%s\n", year, month, date, url, title
 			}
 		}' \
+	| sort \
 	| while read DATE URL TITLE; do
 		echo ===========================
 		echo $DATE $URL $TITLE
