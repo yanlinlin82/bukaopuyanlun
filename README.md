@@ -8,6 +8,8 @@
 
 ### 2024
 
+* 1/19 - [“你手下有多少人？”](https://mp.weixin.qq.com/s/78TLknnfPmK9qHINW0CIRA)
+* 1/18 - [用于DNA存储的纠错算法 | 文献学习](https://mp.weixin.qq.com/s/4ngbaiCkhoP0tnUDamsKJw)
 * 1/17 - [生物学是文科吗？](https://mp.weixin.qq.com/s/kVG6tGEuTMo9yJ-GhNbm5w)
 * 1/16 - [现代科技，是先进还是蛮荒？](https://mp.weixin.qq.com/s/SKFjyR8MAw8qCyAZB-Ngzg)
 * 1/15 - [flat_set的性能测试及其实现](https://mp.weixin.qq.com/s/wJLsQVTZnqB2gWGYsZaMPg)
