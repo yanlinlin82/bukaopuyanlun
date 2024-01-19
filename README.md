@@ -8,6 +8,7 @@
 
 ### 2024
 
+* 1/20 - [从“GPT-5已经看完了人类世界的所有视频”想到的](https://mp.weixin.qq.com/s/fQ5m2rIofQaxIYs7Jdhr1w)
 * 1/19 - [“你手下有多少人？”](https://mp.weixin.qq.com/s/78TLknnfPmK9qHINW0CIRA)
 * 1/18 - [用于DNA存储的纠错算法 | 文献学习](https://mp.weixin.qq.com/s/4ngbaiCkhoP0tnUDamsKJw)
 * 1/17 - [生物学是文科吗？](https://mp.weixin.qq.com/s/kVG6tGEuTMo9yJ-GhNbm5w)
