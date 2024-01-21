@@ -8,6 +8,8 @@
 
 ### 2024
 
+* 1/22 - [随心所欲地运用ggplot2画图](https://mp.weixin.qq.com/s/-orODXUJKutKxyUpn2m9Gw)
+    * [转载 | 新加坡南洋理工大学申小涛课题组招聘启事](https://mp.weixin.qq.com/s/a4jx1ucx3sZtyxpcpyANlA)
 * 1/21 - [用Python试试价投选股策略](https://mp.weixin.qq.com/s/akRsiWUUWeou405dCGBB6A)
 * 1/20 - [从“GPT-5已经看完了人类世界的所有视频”想到的](https://mp.weixin.qq.com/s/fQ5m2rIofQaxIYs7Jdhr1w)
 * 1/19 - [“你手下有多少人？”](https://mp.weixin.qq.com/s/78TLknnfPmK9qHINW0CIRA)
