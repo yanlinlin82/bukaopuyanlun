@@ -8,9 +8,11 @@
 
 ### 2024
 
+* 1/21 - [用Python试试价投选股策略](https://mp.weixin.qq.com/s/akRsiWUUWeou405dCGBB6A)
 * 1/20 - [从“GPT-5已经看完了人类世界的所有视频”想到的](https://mp.weixin.qq.com/s/fQ5m2rIofQaxIYs7Jdhr1w)
 * 1/19 - [“你手下有多少人？”](https://mp.weixin.qq.com/s/78TLknnfPmK9qHINW0CIRA)
 * 1/18 - [用于DNA存储的纠错算法 | 文献学习](https://mp.weixin.qq.com/s/4ngbaiCkhoP0tnUDamsKJw)
+    * [赠送定制红包封面](https://mp.weixin.qq.com/s/9zeH5i9NQKW_xLsOAQej_w)
 * 1/17 - [生物学是文科吗？](https://mp.weixin.qq.com/s/kVG6tGEuTMo9yJ-GhNbm5w)
 * 1/16 - [现代科技，是先进还是蛮荒？](https://mp.weixin.qq.com/s/SKFjyR8MAw8qCyAZB-Ngzg)
 * 1/15 - [flat_set的性能测试及其实现](https://mp.weixin.qq.com/s/wJLsQVTZnqB2gWGYsZaMPg)
