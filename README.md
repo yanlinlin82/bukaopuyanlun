@@ -8,6 +8,8 @@
 
 ### 2024
 
+* 1/23 - [我在创业中的抉择与思考（下）](https://mp.weixin.qq.com/s/PRVaxTqdtupzy_NpX4h5tA)
+    * [再发放100个定制红包封面](https://mp.weixin.qq.com/s/YefSk7HCCbXFix-4thGbnw)
 * 1/22 - [随心所欲地运用ggplot2画图](https://mp.weixin.qq.com/s/-orODXUJKutKxyUpn2m9Gw)
     * [转载 | 新加坡南洋理工大学申小涛课题组招聘启事](https://mp.weixin.qq.com/s/a4jx1ucx3sZtyxpcpyANlA)
 * 1/21 - [用Python试试价投选股策略](https://mp.weixin.qq.com/s/akRsiWUUWeou405dCGBB6A)
