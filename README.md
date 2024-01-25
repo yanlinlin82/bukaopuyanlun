@@ -8,6 +8,7 @@
 
 ### 2024
 
+* 1/25 - [从保险产品出发来思考理财（本文不带货）](https://mp.weixin.qq.com/s/4xGs98QXICLQ5jMqEOacqQ)
 * 1/24 - [C++的类型缩窄转换](https://mp.weixin.qq.com/s/Gjfi8TC1Y6dfuj6AFVbV4A)
 * 1/23 - [我在创业中的抉择与思考（下）](https://mp.weixin.qq.com/s/PRVaxTqdtupzy_NpX4h5tA)
     * [再发放100个定制红包封面](https://mp.weixin.qq.com/s/YefSk7HCCbXFix-4thGbnw)
