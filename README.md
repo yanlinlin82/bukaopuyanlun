@@ -8,6 +8,7 @@
 
 ### 2024
 
+* 1/27 - [那些我们自以为的“安全”](https://mp.weixin.qq.com/s/vA0A8466udF2cAzHaeDnVg)
 * 1/26 - [使用Let's Encrypt免费配置HTTPS](https://mp.weixin.qq.com/s/1gVgK0Z_a_zDT2BVrPwlRg)
 * 1/25 - [从保险产品出发来思考理财（本文不带货）](https://mp.weixin.qq.com/s/4xGs98QXICLQ5jMqEOacqQ)
 * 1/24 - [C++的类型缩窄转换](https://mp.weixin.qq.com/s/Gjfi8TC1Y6dfuj6AFVbV4A)
