@@ -4,6 +4,18 @@
 
 所有文章都遵循[CC-BY-4.0协议（也即知识共享署名4.0协议）](LICENSE)发布，读者可以自行传播使用，但需保留原署名。该协议来自[CreativeCommons.org](https://creativecommons.org/licenses/by/4.0/legalcode.zh-hans)。
 
+<div style="display:flex; justify-content:center; align-items:center;">
+<div>
+<p style="text-align:center;">公众号二维码</p>
+<img src="images/qrcode.jpg" alt="公众号二维码" style="width:200px;"/>
+</div>
+<div style="width:50px;"></div>
+<div>
+<p style="text-align:center;">赞赏码</p>
+<img src="images/reward.jpg" alt="赞赏码" style="width:200px;"/>
+</div>
+</div>
+
 ## 文章链接目录
 
 ### 2024
