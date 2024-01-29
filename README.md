@@ -12,6 +12,7 @@
 
 ### 2024
 
+* 1/29 - [在生成式AI泛滥时代，如何鉴别信息的真伪？](https://mp.weixin.qq.com/s/pRO_9NxqsmyiOGGWZYrR_A)
 * 1/28 - [科研是一件极简单同时又极难的事](https://mp.weixin.qq.com/s/wI7_CG9QAdBs93k3cLbAxg)
 * 1/27 - [那些我们自以为的“安全”](https://mp.weixin.qq.com/s/vA0A8466udF2cAzHaeDnVg)
 * 1/26 - [使用Let's Encrypt免费配置HTTPS](https://mp.weixin.qq.com/s/1gVgK0Z_a_zDT2BVrPwlRg)
