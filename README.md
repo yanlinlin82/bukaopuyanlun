@@ -12,6 +12,10 @@
 
 ### 2024
 
+* 1/31 - [肿瘤疫苗与免疫检查点治疗联用的临床前支持证据 | 文献学习](https://mp.weixin.qq.com/s/Yk3S6LuncALaEObP1MfAuw)
+    * [第三款红包封面，免费发放400个](https://mp.weixin.qq.com/s/HkvPJw4qrQ1CUh14DnGY1A)
+* 1/30 - [从克服人性弱点来提升管理能力 | 书评](https://mp.weixin.qq.com/s/it3ZrMJu6PcWJydLBnRu1Q)
+    * [第二款红包封面，免费发放400个](https://mp.weixin.qq.com/s/N-Ey-BU6Vg8cDXNHwUaaEg)
 * 1/29 - [在生成式AI泛滥时代，如何鉴别信息的真伪？](https://mp.weixin.qq.com/s/pRO_9NxqsmyiOGGWZYrR_A)
 * 1/28 - [科研是一件极简单同时又极难的事](https://mp.weixin.qq.com/s/wI7_CG9QAdBs93k3cLbAxg)
 * 1/27 - [那些我们自以为的“安全”](https://mp.weixin.qq.com/s/vA0A8466udF2cAzHaeDnVg)
