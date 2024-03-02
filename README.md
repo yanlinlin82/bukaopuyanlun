@@ -12,6 +12,9 @@
 
 ### 2024
 
+* 3/2 - [如何理解中心极限定理？](https://mp.weixin.qq.com/s/TRpg7kvIWWuR0irw9-wbkQ)
+* 2/16 - [《应用线性代数：向量、矩阵及最小二乘》书评](https://mp.weixin.qq.com/s/pw1j5wt4Dda2f21DEp0jmg)
+* 2/5 - [《觉醒年代》读后感](https://mp.weixin.qq.com/s/QQQhLWLz_Xxneexu9IhiJg)
 * 1/31 - [肿瘤疫苗与免疫检查点治疗联用的临床前支持证据 | 文献学习](https://mp.weixin.qq.com/s/Yk3S6LuncALaEObP1MfAuw)
     * [第三款红包封面，免费发放400个](https://mp.weixin.qq.com/s/HkvPJw4qrQ1CUh14DnGY1A)
 * 1/30 - [从克服人性弱点来提升管理能力 | 书评](https://mp.weixin.qq.com/s/it3ZrMJu6PcWJydLBnRu1Q)
