@@ -12,6 +12,7 @@
 
 ### 2024
 
+* 3/30 - [从一个安全警告邮件想到的](https://mp.weixin.qq.com/s/Wx10RkDLdzdMq6yZOTZorg)
 * 3/5 - [从外行角度来胡扯大模型的未来](https://mp.weixin.qq.com/s/98FzqKBFhNtNtllXu5oCXQ)
 * 3/2 - [如何理解中心极限定理？](https://mp.weixin.qq.com/s/TRpg7kvIWWuR0irw9-wbkQ)
 * 2/16 - [《应用线性代数：向量、矩阵及最小二乘》书评](https://mp.weixin.qq.com/s/pw1j5wt4Dda2f21DEp0jmg)
