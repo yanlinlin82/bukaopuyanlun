@@ -7,10 +7,16 @@ cat README.md \
 		/^###/ { year = substr($0,5) }
 		/https/ {
 			if (match($0, /^\* ([0-9]+)\/([0-9]+) - \[(.*)\]\((.*)\)/, a)) {
+
 				month = a[1]
 				date = a[2]
 				title = a[3]
 				url = a[4]
+
+				# 转义特殊字符
+                gsub(/[|\/\\]/, "-", title)
+                gsub(/[*?:"<>]/, "-", title)
+
 				printf "%04d-%02d-%02d\t%s\t%s\n", year, month, date, url, title
 			}
 		}' \
