@@ -12,6 +12,7 @@
 
 ### 2024
 
+* 8/4 - [管道与命令返回值](https://mp.weixin.qq.com/s/1tNDTvit9rDoSdSAwkomyQ)
 * 5/20 - [捉妖记 | 一个奇怪的插入片段长度分布图](https://mp.weixin.qq.com/s/mcwB07d9iGC7LDpnpWyatA)
 * 3/30 - [从一个安全警告邮件想到的](https://mp.weixin.qq.com/s/Wx10RkDLdzdMq6yZOTZorg)
 * 3/5 - [从外行角度来胡扯大模型的未来](https://mp.weixin.qq.com/s/98FzqKBFhNtNtllXu5oCXQ)
